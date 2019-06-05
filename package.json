@@ -1,0 +1,22 @@
+{
+  "name": "apiserver",
+  "version": "1.0.0",
+  "description": "server with api",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-find-index": "^1.0.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "ie-array-find-polyfill": "^1.1.0",
+    "mongodb": "^3.2.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
