@@ -11,7 +11,7 @@
   "dependencies": {
     "array-find-index": "^1.0.2",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "ie-array-find-polyfill": "^1.1.0",
     "mongodb": "^3.2.2",
     "xmlhttprequest": "^1.8.0"
